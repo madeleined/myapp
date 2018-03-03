@@ -1,0 +1,32 @@
+body{
+  background: rgb(255,182,193	);
+  color: rgb(114,47,55);
+  font-size: 25px;
+ font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+  font-family: Roboto Condensed', sans-serif;
+  color: red;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 30px;
+}
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: blue;
+} 
+#footer a {
+  color: (67,89,20);
+  font-size: 15px;
+}
+#footer a:hover {
+  color: (75,75,75);
+}
